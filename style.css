@@ -1,0 +1,44 @@
+.background{
+    background-image: url(stars.jpg);
+    background-repeat: no-repeat;
+}
+
+.background2{
+    background-image: url(nebula.jpg);
+}
+
+.header1{
+    color: white;
+    border: solid violet;
+    border-radius: 25px;
+    width: 150px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 35px;
+    margin-top: 25px;
+}
+
+.pfp{
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+.amandocard{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+    border: solid violet;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+.button{
+    border: solid violet;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    align-items: center;
+}
